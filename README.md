@@ -1,16 +1,43 @@
-## Hi there 👋
+## こんにちは、岩崎 陽生（Haruki Iwasaki）です。
 
-<!--
-**iwasaki2/iwasaki2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+VR・Web・音声インタラクションを活用し、  
+**「感情に寄り添う体験」「居場所となる空間」**をデザインしています。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 主な作品
+
+#### 【Voice be Chord】  
+_Laval Virtual 2025 出展作品_  
+“正確なピッチで和音を鳴らすと、倍音が発生する”という現象を再現し、  
+**音楽経験のない人でも「コーラス倍音の奇跡」を体験できるVR作品**です。  
+プレイヤーは、地獄の番犬ケルベロスを特別な声で眠らせます。  
+技術：Unity / Mirror / ピッチ検出 / アニメーション制御  
+▶️ デモ映像（YouTube）：  
+[https://youtu.be/U4Kg9kNNqc0](https://youtu.be/U4Kg9kNNqc0)
+---
+
+#### 【IVRC 2024 インタラクティブ作品】  
+チームで制作した、**ハプティクスとマルチプレイ体験を融合したVRプロジェクト**。  
+マイコン制御＋Unityにより身体感覚の同期を実現しました。
+
+---
+
+#### 【DjangoによるWebサービス開発】  
+Python / Djangoを用いたWebアプリ開発。ログイン機能やデータ管理を実装し、  
+ユーザーにとって**静かで使いやすいUI/UX**を目指しています。
+
+---
+
+### 使用スキル
+- Unity / C# / Mirror / Blender  
+- Python / Django / HTML / CSS  
+- Git / GitHub / 空間・体験設計
+
+---
+
+### 一言メッセージ
+
+**「感受性が安心できる空間」**を、技術と表現でつくりたい。  
+感情と世界のあいだに、やさしい体験をつなぎたい。  
+そんな想いで日々制作を続けています。
