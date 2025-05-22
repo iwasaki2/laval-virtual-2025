@@ -12,7 +12,7 @@ _Laval Virtual 2025 出展作品_
 “正確なピッチで和音を鳴らすと、倍音が発生する”という現象を再現し、  
 **音楽経験のない人でも「コーラス倍音の奇跡」を体験できるVR作品**です。  
 プレイヤーは、地獄の番犬ケルベロスを特別な声で眠らせます。  
-技術：Unity / Mirror / ピッチ検出 / アニメーション制御  
+技術：Unity / Mirror / アニメーション制御  
 ▶️ デモ映像（YouTube）：  
 [https://youtu.be/U4Kg9kNNqc0](https://youtu.be/U4Kg9kNNqc0)
 ---
