@@ -100,6 +100,6 @@ PythonとDjangoを用いたWebアプリ開発。ログイン機能やデータ�
 
 *Creating gentle bridges between emotion and technology* ✨
 
-[![Profile Views](https://www.linkedin.com/in/haruki-iwasaki-57283435b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[(https://www.linkedin.com/in/haruki-iwasaki-57283435b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)]
 
 </div>
