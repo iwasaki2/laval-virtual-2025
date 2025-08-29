@@ -1,7 +1,7 @@
 <div align="center">
   
 🚀 Welcome to My Code Universe
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD3F5&center=true&vCenter=true&width=600&lines=Hi!+I'm+a+Creator+%F0%9F%8E%A8;Designing+Experiences+That+Resonate%3BBuilding+a+Space+for+Connection" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Hi!+I'm+a+Creator+%F0%9F%8E%A8;Designing+Experiences+That+Resonate%3BBuilding+a+Space+for+Connection" alt="Typing SVG" />
 <br/>
 </div>
 
