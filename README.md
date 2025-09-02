@@ -16,20 +16,25 @@
 
 **🎮 ゲームプランナー（5日間インターン）**
 - 役割: ゲーム企画・開発
-- 業務内容: 5日間の集中インターンで、ゲームの企画と実装に参加
+- 業務内容: 5日間の集中インターンで、ゲームの企画に参加
+
+**🎮 ラクス Tech Lab（3日間インターン）**
+- 役割: ウェブアプリケーション開発
+- 業務内容:3日間の集中インターンで、Gitを使ったチーム開発を体験しました。チームで協力しながら、Vue.jsとSocket.IOを活用したリアルタイムチャットアプリの企画・開発を担当しました。
 
 **💻 Webサイトの開発（業務委託）**
 - 役割: Webサイト開発
-- 業務内容: Vue.jsを使用したWebサイトのチーム開発と、業務委託でのWebサイト開発を担当
+- 業務内容: Next.jsを使用したWebサイトのgitを使うチーム開発と、業務委託でのWebサイト開発を担当
 
 **🔗 マッチングサービスの開発（業務委託）**
-- 役割: マッチングサービスの開発
-- 業務内容: 業務委託としてマッチングサービスの開発に携わりました
+- 役割: マッチングサービスの開発中
+- 業務内容: 業務委託として高校と大学大学をつなぐマッチングサービスの開発に携わっています。
 
 ## 📝 主な作品
 
 ### 【Voice be Chord】
 **🏆 Laval Virtual 2025 出展作品**
+**IVRC2024 Seedステージ 展示**
 
 「正確なピッチで和音を鳴らすと、倍音が発生する」という現象を再現し、音楽経験のない人でも「コーラス倍音の奇跡」を体験できるVR作品です。
 
@@ -37,9 +42,9 @@
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Mirror](https://img.shields.io/badge/-Mirror%20Networking-FF6B6B?style=flat&logoColor=white)
-
+### Laval Virtual 2025 
 ### 【IVRC 2024 インタラクティブ作品】
-チームで制作した、ハプティクスとマルチプレイ体験を融合したVRプロジェクト。マイコン制御とUnityにより身体感覚の同期を実現。
+マルチプレイ体験を融合したVRプロジェクト。マイコン制御とUnityにより身体感覚の同期を実現。
 
 **技術スタック:**
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
