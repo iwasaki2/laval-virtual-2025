@@ -96,9 +96,6 @@ PythonとDjangoを用いたWebアプリ開発。ログイン機能やデータ�
 ![Experience Design](https://img.shields.io/badge/-Experience%20Design-9C27B0?style=flat&logoColor=white)
 ![Haptic Technology](https://img.shields.io/badge/-Haptic%20Tech-FF6B35?style=flat&logoColor=white)
 
-## 💡 メッセージ
-「感受性が安心できる空間」を、技術と表現でつくりたい。感情と世界のあいだに、やさしい体験をつなぎたい。そんな想いで日々制作を続けています。
-
 ---
 
 <div align="center">
